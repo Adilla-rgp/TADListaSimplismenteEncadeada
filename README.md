@@ -40,7 +40,7 @@ O projeto é composto pelos seguintes arquivos:
 ```bash
 gcc main.c colecao.c disco.c -o colecao
 ./colecao
-
+```
 
 ### 3.2 Windows
 
