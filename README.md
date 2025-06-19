@@ -88,6 +88,7 @@ Este projeto demonstra a aplicação de TADs genéricos em C, com foco na separa
 ## 7. Identificação
 
 **Disciplina:** Estrutura de Dados 1
+
 **Aluno:** Ádilla Roberta Gomes Pereira  
 **Professor:** Anselmo Paiva  
 **Data de Entrega:** 20 de junho de 2025
